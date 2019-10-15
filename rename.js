@@ -1,4 +1,4 @@
-const { renameSync, readdirSync, readFileSync } = require('fs');
+const { renameSync, readdirSync, readFileSync, writeFileSync } = require('fs');
 const cards = require('./data/character-ability-cards.json');
 
 // const files = readdirSync('./data');
@@ -17,8 +17,19 @@ const characterCodes = {
   MT: 'mindthief',
   SC: 'scoundrel',
   BR: 'brute',
-}
+};
 
+const updatedCards = cards.map(card => {
+  const code = card.image.split('/')[1];
 
+  if (Object.keys(characterCodes).includes(code)) {
+    card.character = characterCodes[code];
+  }
 
-console.log(cards);
+  return card;
+});
+
+writeFileSync(
+  './data/character-ability-cards.json',
+  JSON.stringify(updatedCards)
+);

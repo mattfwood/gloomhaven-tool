@@ -183,181 +183,211 @@
     "name": "balanced measure",
     "points": 30,
     "image": "character-ability-cards/BR/balanced-measure.png",
-    "xws": "balancedmeasure"
+    "xws": "balancedmeasure",
+    "character": "brute"
   },
   {
     "name": "br-back",
     "points": 31,
     "image": "character-ability-cards/BR/br-back.png",
-    "xws": "brback"
+    "xws": "brback",
+    "character": "brute"
   },
   {
     "name": "brute force",
     "points": 32,
     "image": "character-ability-cards/BR/brute-force.png",
-    "xws": "bruteforce"
+    "xws": "bruteforce",
+    "character": "brute"
   },
   {
     "name": "crippling offensive",
     "points": 33,
     "image": "character-ability-cards/BR/crippling-offensive.png",
-    "xws": "cripplingoffensive"
+    "xws": "cripplingoffensive",
+    "character": "brute"
   },
   {
     "name": "defensive tactics",
     "points": 34,
     "image": "character-ability-cards/BR/defensive-tactics.png",
-    "xws": "defensivetactics"
+    "xws": "defensivetactics",
+    "character": "brute"
   },
   {
     "name": "devastating hack",
     "points": 35,
     "image": "character-ability-cards/BR/devastating-hack.png",
-    "xws": "devastatinghack"
+    "xws": "devastatinghack",
+    "character": "brute"
   },
   {
     "name": "eye for an eye",
     "points": 36,
     "image": "character-ability-cards/BR/eye-for-an-eye.png",
-    "xws": "eyeforaneye"
+    "xws": "eyeforaneye",
+    "character": "brute"
   },
   {
     "name": "face your end",
     "points": 37,
     "image": "character-ability-cards/BR/face-your-end.png",
-    "xws": "faceyourend"
+    "xws": "faceyourend",
+    "character": "brute"
   },
   {
     "name": "fatal advance",
     "points": 38,
     "image": "character-ability-cards/BR/fatal-advance.png",
-    "xws": "fataladvance"
+    "xws": "fataladvance",
+    "character": "brute"
   },
   {
     "name": "frenzied onslaught",
     "points": 39,
     "image": "character-ability-cards/BR/frenzied-onslaught.png",
-    "xws": "frenziedonslaught"
+    "xws": "frenziedonslaught",
+    "character": "brute"
   },
   {
     "name": "grab and go",
     "points": 40,
     "image": "character-ability-cards/BR/grab-and-go.png",
-    "xws": "grabandgo"
+    "xws": "grabandgo",
+    "character": "brute"
   },
   {
     "name": "hook and chain",
     "points": 41,
     "image": "character-ability-cards/BR/hook-and-chain.png",
-    "xws": "hookandchain"
+    "xws": "hookandchain",
+    "character": "brute"
   },
   {
     "name": "immovable phalanx",
     "points": 42,
     "image": "character-ability-cards/BR/immovable-phalanx.png",
-    "xws": "immovablephalanx"
+    "xws": "immovablephalanx",
+    "character": "brute"
   },
   {
     "name": "juggernaut",
     "points": 43,
     "image": "character-ability-cards/BR/juggernaut.png",
-    "xws": "juggernaut"
+    "xws": "juggernaut",
+    "character": "brute"
   },
   {
     "name": "king of the hill",
     "points": 44,
     "image": "character-ability-cards/BR/king-of-the-hill.png",
-    "xws": "kingofthehill"
+    "xws": "kingofthehill",
+    "character": "brute"
   },
   {
     "name": "leaping cleave",
     "points": 45,
     "image": "character-ability-cards/BR/leaping-cleave.png",
-    "xws": "leapingcleave"
+    "xws": "leapingcleave",
+    "character": "brute"
   },
   {
     "name": "overwhelming assault",
     "points": 46,
     "image": "character-ability-cards/BR/overwhelming-assault.png",
-    "xws": "overwhelmingassault"
+    "xws": "overwhelmingassault",
+    "character": "brute"
   },
   {
     "name": "provoking roar",
     "points": 47,
     "image": "character-ability-cards/BR/provoking-roar.png",
-    "xws": "provokingroar"
+    "xws": "provokingroar",
+    "character": "brute"
   },
   {
     "name": "quietus",
     "points": 48,
     "image": "character-ability-cards/BR/quietus.png",
-    "xws": "quietus"
+    "xws": "quietus",
+    "character": "brute"
   },
   {
     "name": "selfish retribution",
     "points": 49,
     "image": "character-ability-cards/BR/selfish-retribution.png",
-    "xws": "selfishretribution"
+    "xws": "selfishretribution",
+    "character": "brute"
   },
   {
     "name": "shield bash",
     "points": 50,
     "image": "character-ability-cards/BR/shield-bash.png",
-    "xws": "shieldbash"
+    "xws": "shieldbash",
+    "character": "brute"
   },
   {
     "name": "skewer",
     "points": 51,
     "image": "character-ability-cards/BR/skewer.png",
-    "xws": "skewer"
+    "xws": "skewer",
+    "character": "brute"
   },
   {
     "name": "skirmishing maneuver",
     "points": 52,
     "image": "character-ability-cards/BR/skirmishing-maneuver.png",
-    "xws": "skirmishingmaneuver"
+    "xws": "skirmishingmaneuver",
+    "character": "brute"
   },
   {
     "name": "spare dagger",
     "points": 53,
     "image": "character-ability-cards/BR/spare-dagger.png",
-    "xws": "sparedagger"
+    "xws": "sparedagger",
+    "character": "brute"
   },
   {
     "name": "sweeping blow",
     "points": 54,
     "image": "character-ability-cards/BR/sweeping-blow.png",
-    "xws": "sweepingblow"
+    "xws": "sweepingblow",
+    "character": "brute"
   },
   {
     "name": "trample",
     "points": 55,
     "image": "character-ability-cards/BR/trample.png",
-    "xws": "trample"
+    "xws": "trample",
+    "character": "brute"
   },
   {
     "name": "unstoppable charge",
     "points": 56,
     "image": "character-ability-cards/BR/unstoppable-charge.png",
-    "xws": "unstoppablecharge"
+    "xws": "unstoppablecharge",
+    "character": "brute"
   },
   {
     "name": "wall of doom",
     "points": 57,
     "image": "character-ability-cards/BR/wall-of-doom.png",
-    "xws": "wallofdoom"
+    "xws": "wallofdoom",
+    "character": "brute"
   },
   {
     "name": "warding strength",
     "points": 58,
     "image": "character-ability-cards/BR/warding-strength.png",
-    "xws": "wardingstrength"
+    "xws": "wardingstrength",
+    "character": "brute"
   },
   {
     "name": "whirlwind",
     "points": 59,
     "image": "character-ability-cards/BR/whirlwind.png",
-    "xws": "whirlwind"
+    "xws": "whirlwind",
+    "character": "brute"
   },
   {
     "name": "bioluminescence",
@@ -729,187 +759,218 @@
     "name": "avalanche",
     "points": 121,
     "image": "character-ability-cards/CH/avalanche.png",
-    "xws": "avalanche"
+    "xws": "avalanche",
+    "character": "cragheart"
   },
   {
     "name": "backup ammunition",
     "points": 122,
     "image": "character-ability-cards/CH/backup-ammunition.png",
-    "xws": "backupammunition"
+    "xws": "backupammunition",
+    "character": "cragheart"
   },
   {
     "name": "blind destruction",
     "points": 123,
     "image": "character-ability-cards/CH/blind-destruction.png",
-    "xws": "blinddestruction"
+    "xws": "blinddestruction",
+    "character": "cragheart"
   },
   {
     "name": "blunt force",
     "points": 124,
     "image": "character-ability-cards/CH/blunt-force.png",
-    "xws": "bluntforce"
+    "xws": "bluntforce",
+    "character": "cragheart"
   },
   {
     "name": "brutal momentum",
     "points": 125,
     "image": "character-ability-cards/CH/brutal-momentum.png",
-    "xws": "brutalmomentum"
+    "xws": "brutalmomentum",
+    "character": "cragheart"
   },
   {
     "name": "cataclysm",
     "points": 126,
     "image": "character-ability-cards/CH/cataclysm.png",
-    "xws": "cataclysm"
+    "xws": "cataclysm",
+    "character": "cragheart"
   },
   {
     "name": "ch-back",
     "points": 127,
     "image": "character-ability-cards/CH/ch-back.png",
-    "xws": "chback"
+    "xws": "chback",
+    "character": "cragheart"
   },
   {
     "name": "clear the way",
     "points": 128,
     "image": "character-ability-cards/CH/clear-the-way.png",
-    "xws": "cleartheway"
+    "xws": "cleartheway",
+    "character": "cragheart"
   },
   {
     "name": "crater",
     "points": 129,
     "image": "character-ability-cards/CH/crater.png",
-    "xws": "crater"
+    "xws": "crater",
+    "character": "cragheart"
   },
   {
     "name": "crushing grasp",
     "points": 130,
     "image": "character-ability-cards/CH/crushing-grasp.png",
-    "xws": "crushinggrasp"
+    "xws": "crushinggrasp",
+    "character": "cragheart"
   },
   {
     "name": "dig pit",
     "points": 131,
     "image": "character-ability-cards/CH/dig-pit.png",
-    "xws": "digpit"
+    "xws": "digpit",
+    "character": "cragheart"
   },
   {
     "name": "dirt tornado",
     "points": 132,
     "image": "character-ability-cards/CH/dirt-tornado.png",
-    "xws": "dirttornado"
+    "xws": "dirttornado",
+    "character": "cragheart"
   },
   {
     "name": "earthen clod",
     "points": 133,
     "image": "character-ability-cards/CH/earthen-clod.png",
-    "xws": "earthenclod"
+    "xws": "earthenclod",
+    "character": "cragheart"
   },
   {
     "name": "explosive punch",
     "points": 134,
     "image": "character-ability-cards/CH/explosive-punch.png",
-    "xws": "explosivepunch"
+    "xws": "explosivepunch",
+    "character": "cragheart"
   },
   {
     "name": "forceful storm",
     "points": 135,
     "image": "character-ability-cards/CH/forceful-storm.png",
-    "xws": "forcefulstorm"
+    "xws": "forcefulstorm",
+    "character": "cragheart"
   },
   {
     "name": "heaving swing",
     "points": 136,
     "image": "character-ability-cards/CH/heaving-swing.png",
-    "xws": "heavingswing"
+    "xws": "heavingswing",
+    "character": "cragheart"
   },
   {
     "name": "kinetic assault",
     "points": 137,
     "image": "character-ability-cards/CH/kinetic-assault.png",
-    "xws": "kineticassault"
+    "xws": "kineticassault",
+    "character": "cragheart"
   },
   {
     "name": "lumbering bash",
     "points": 138,
     "image": "character-ability-cards/CH/lumbering-bash.png",
-    "xws": "lumberingbash"
+    "xws": "lumberingbash",
+    "character": "cragheart"
   },
   {
     "name": "massive boulder",
     "points": 139,
     "image": "character-ability-cards/CH/massive-boulder.png",
-    "xws": "massiveboulder"
+    "xws": "massiveboulder",
+    "character": "cragheart"
   },
   {
     "name": "meteor",
     "points": 140,
     "image": "character-ability-cards/CH/meteor.png",
-    "xws": "meteor"
+    "xws": "meteor",
+    "character": "cragheart"
   },
   {
     "name": "nature's lift",
     "points": 141,
     "image": "character-ability-cards/CH/natures-lift.png",
-    "xws": "natureslift"
+    "xws": "natureslift",
+    "character": "cragheart"
   },
   {
     "name": "opposing strike",
     "points": 142,
     "image": "character-ability-cards/CH/opposing-strike.png",
-    "xws": "opposingstrike"
+    "xws": "opposingstrike",
+    "character": "cragheart"
   },
   {
     "name": "petrify",
     "points": 143,
     "image": "character-ability-cards/CH/petrify.png",
-    "xws": "petrify"
+    "xws": "petrify",
+    "character": "cragheart"
   },
   {
     "name": "pulverize",
     "points": 144,
     "image": "character-ability-cards/CH/pulverize.png",
-    "xws": "pulverize"
+    "xws": "pulverize",
+    "character": "cragheart"
   },
   {
     "name": "rock slide",
     "points": 145,
     "image": "character-ability-cards/CH/rock-slide.png",
-    "xws": "rockslide"
+    "xws": "rockslide",
+    "character": "cragheart"
   },
   {
     "name": "rock tunnel",
     "points": 146,
     "image": "character-ability-cards/CH/rock-tunnel.png",
-    "xws": "rocktunnel"
+    "xws": "rocktunnel",
+    "character": "cragheart"
   },
   {
     "name": "rocky end",
     "points": 147,
     "image": "character-ability-cards/CH/rocky-end.png",
-    "xws": "rockyend"
+    "xws": "rockyend",
+    "character": "cragheart"
   },
   {
     "name": "rumbling advance",
     "points": 148,
     "image": "character-ability-cards/CH/rumbling-advance.png",
-    "xws": "rumblingadvance"
+    "xws": "rumblingadvance",
+    "character": "cragheart"
   },
   {
     "name": "sentient growth",
     "points": 149,
     "image": "character-ability-cards/CH/sentient-growth.png",
-    "xws": "sentientgrowth"
+    "xws": "sentientgrowth",
+    "character": "cragheart"
   },
   {
     "name": "stone pummel",
     "points": 150,
     "image": "character-ability-cards/CH/stone-pummel.png",
-    "xws": "stonepummel"
+    "xws": "stonepummel",
+    "character": "cragheart"
   },
   {
     "name": "unstable upheaval",
     "points": 151,
     "image": "character-ability-cards/CH/unstable-upheaval.png",
-    "xws": "unstableupheaval"
+    "xws": "unstableupheaval",
+    "character": "cragheart"
   },
   {
     "name": "a moment's peace",
@@ -1287,181 +1348,211 @@
     "name": "brain leech",
     "points": 214,
     "image": "character-ability-cards/MT/brain-leech.png",
-    "xws": "brainleech"
+    "xws": "brainleech",
+    "character": "mindthief"
   },
   {
     "name": "corrupting embrace",
     "points": 215,
     "image": "character-ability-cards/MT/corrupting-embrace.png",
-    "xws": "corruptingembrace"
+    "xws": "corruptingembrace",
+    "character": "mindthief"
   },
   {
     "name": "cranium overload",
     "points": 216,
     "image": "character-ability-cards/MT/cranium-overload.png",
-    "xws": "craniumoverload"
+    "xws": "craniumoverload",
+    "character": "mindthief"
   },
   {
     "name": "dark frenzy",
     "points": 217,
     "image": "character-ability-cards/MT/dark-frenzy.png",
-    "xws": "darkfrenzy"
+    "xws": "darkfrenzy",
+    "character": "mindthief"
   },
   {
     "name": "domination",
     "points": 218,
     "image": "character-ability-cards/MT/domination.png",
-    "xws": "domination"
+    "xws": "domination",
+    "character": "mindthief"
   },
   {
     "name": "empathetic assault",
     "points": 219,
     "image": "character-ability-cards/MT/empathetic-assault.png",
-    "xws": "empatheticassault"
+    "xws": "empatheticassault",
+    "character": "mindthief"
   },
   {
     "name": "fearsome blade",
     "points": 220,
     "image": "character-ability-cards/MT/fearsome-blade.png",
-    "xws": "fearsomeblade"
+    "xws": "fearsomeblade",
+    "character": "mindthief"
   },
   {
     "name": "feedback loop",
     "points": 221,
     "image": "character-ability-cards/MT/feedback-loop.png",
-    "xws": "feedbackloop"
+    "xws": "feedbackloop",
+    "character": "mindthief"
   },
   {
     "name": "frigid apparition",
     "points": 222,
     "image": "character-ability-cards/MT/frigid-apparition.png",
-    "xws": "frigidapparition"
+    "xws": "frigidapparition",
+    "character": "mindthief"
   },
   {
     "name": "frozen mind",
     "points": 223,
     "image": "character-ability-cards/MT/frozen-mind.png",
-    "xws": "frozenmind"
+    "xws": "frozenmind",
+    "character": "mindthief"
   },
   {
     "name": "gnawing horde",
     "points": 224,
     "image": "character-ability-cards/MT/gnawing-horde.png",
-    "xws": "gnawinghorde"
+    "xws": "gnawinghorde",
+    "character": "mindthief"
   },
   {
     "name": "hostile takeover",
     "points": 225,
     "image": "character-ability-cards/MT/hostile-takeover.png",
-    "xws": "hostiletakeover"
+    "xws": "hostiletakeover",
+    "character": "mindthief"
   },
   {
     "name": "into the night",
     "points": 226,
     "image": "character-ability-cards/MT/into-the-night.png",
-    "xws": "intothenight"
+    "xws": "intothenight",
+    "character": "mindthief"
   },
   {
     "name": "many as one",
     "points": 227,
     "image": "character-ability-cards/MT/many-as-one.png",
-    "xws": "manyasone"
+    "xws": "manyasone",
+    "character": "mindthief"
   },
   {
     "name": "mass hysteria",
     "points": 228,
     "image": "character-ability-cards/MT/mass-hysteria.png",
-    "xws": "masshysteria"
+    "xws": "masshysteria",
+    "character": "mindthief"
   },
   {
     "name": "mt-back",
     "points": 229,
     "image": "character-ability-cards/MT/mt-back.png",
-    "xws": "mtback"
+    "xws": "mtback",
+    "character": "mindthief"
   },
   {
     "name": "parasitic influence",
     "points": 230,
     "image": "character-ability-cards/MT/parasitic-influence.png",
-    "xws": "parasiticinfluence"
+    "xws": "parasiticinfluence",
+    "character": "mindthief"
   },
   {
     "name": "perverse edge",
     "points": 231,
     "image": "character-ability-cards/MT/perverse-edge.png",
-    "xws": "perverseedge"
+    "xws": "perverseedge",
+    "character": "mindthief"
   },
   {
     "name": "phantasmal killer",
     "points": 232,
     "image": "character-ability-cards/MT/phantasmal-killer.png",
-    "xws": "phantasmalkiller"
+    "xws": "phantasmalkiller",
+    "character": "mindthief"
   },
   {
     "name": "pilfer",
     "points": 233,
     "image": "character-ability-cards/MT/pilfer.png",
-    "xws": "pilfer"
+    "xws": "pilfer",
+    "character": "mindthief"
   },
   {
     "name": "possession",
     "points": 234,
     "image": "character-ability-cards/MT/possession.png",
-    "xws": "possession"
+    "xws": "possession",
+    "character": "mindthief"
   },
   {
     "name": "psychic projection",
     "points": 235,
     "image": "character-ability-cards/MT/psychic-projection.png",
-    "xws": "psychicprojection"
+    "xws": "psychicprojection",
+    "character": "mindthief"
   },
   {
     "name": "scurry",
     "points": 236,
     "image": "character-ability-cards/MT/scurry.png",
-    "xws": "scurry"
+    "xws": "scurry",
+    "character": "mindthief"
   },
   {
     "name": "shared nightmare",
     "points": 237,
     "image": "character-ability-cards/MT/shared-nightmare.png",
-    "xws": "sharednightmare"
+    "xws": "sharednightmare",
+    "character": "mindthief"
   },
   {
     "name": "silent scream",
     "points": 238,
     "image": "character-ability-cards/MT/silent-scream.png",
-    "xws": "silentscream"
+    "xws": "silentscream",
+    "character": "mindthief"
   },
   {
     "name": "submissive affliction",
     "points": 239,
     "image": "character-ability-cards/MT/submissive-affliction.png",
-    "xws": "submissiveaffliction"
+    "xws": "submissiveaffliction",
+    "character": "mindthief"
   },
   {
     "name": "the mind's weakness",
     "points": 240,
     "image": "character-ability-cards/MT/the-minds-weakness.png",
-    "xws": "themindsweakness"
+    "xws": "themindsweakness",
+    "character": "mindthief"
   },
   {
     "name": "vicious blood",
     "points": 241,
     "image": "character-ability-cards/MT/vicious-blood.png",
-    "xws": "viciousblood"
+    "xws": "viciousblood",
+    "character": "mindthief"
   },
   {
     "name": "withering claw",
     "points": 242,
     "image": "character-ability-cards/MT/withering-claw.png",
-    "xws": "witheringclaw"
+    "xws": "witheringclaw",
+    "character": "mindthief"
   },
   {
     "name": "wretched creature",
     "points": 243,
     "image": "character-ability-cards/MT/wretched-creature.png",
-    "xws": "wretchedcreature"
+    "xws": "wretchedcreature",
+    "character": "mindthief"
   },
   {
     "name": "angel of death",
@@ -2187,175 +2278,204 @@
     "name": "backstab",
     "points": 364,
     "image": "character-ability-cards/SC/backstab.png",
-    "xws": "backstab"
+    "xws": "backstab",
+    "character": "scoundrel"
   },
   {
     "name": "burning oil",
     "points": 365,
     "image": "character-ability-cards/SC/burning-oil.png",
-    "xws": "burningoil"
+    "xws": "burningoil",
+    "character": "scoundrel"
   },
   {
     "name": "crippling poison",
     "points": 366,
     "image": "character-ability-cards/SC/crippling-poison.png",
-    "xws": "cripplingpoison"
+    "xws": "cripplingpoison",
+    "character": "scoundrel"
   },
   {
     "name": "cull the weak",
     "points": 367,
     "image": "character-ability-cards/SC/cull-the-weak.png",
-    "xws": "culltheweak"
+    "xws": "culltheweak",
+    "character": "scoundrel"
   },
   {
     "name": "duelist's advance",
     "points": 368,
     "image": "character-ability-cards/SC/duelists-advance.png",
-    "xws": "duelistsadvance"
+    "xws": "duelistsadvance",
+    "character": "scoundrel"
   },
   {
     "name": "flanking strike",
     "points": 369,
     "image": "character-ability-cards/SC/flanking-strike.png",
-    "xws": "flankingstrike"
+    "xws": "flankingstrike",
+    "character": "scoundrel"
   },
   {
     "name": "flintlock",
     "points": 370,
     "image": "character-ability-cards/SC/flintlock.png",
-    "xws": "flintlock"
+    "xws": "flintlock",
+    "character": "scoundrel"
   },
   {
     "name": "flurry of blades",
     "points": 371,
     "image": "character-ability-cards/SC/flurry-of-blades.png",
-    "xws": "flurryofblades"
+    "xws": "flurryofblades",
+    "character": "scoundrel"
   },
   {
     "name": "gruesome advantage",
     "points": 372,
     "image": "character-ability-cards/SC/gruesome-advantage.png",
-    "xws": "gruesomeadvantage"
+    "xws": "gruesomeadvantage",
+    "character": "scoundrel"
   },
   {
     "name": "hidden daggers",
     "points": 373,
     "image": "character-ability-cards/SC/hidden-daggers.png",
-    "xws": "hiddendaggers"
+    "xws": "hiddendaggers",
+    "character": "scoundrel"
   },
   {
     "name": "long con",
     "points": 374,
     "image": "character-ability-cards/SC/long-con.png",
-    "xws": "longcon"
+    "xws": "longcon",
+    "character": "scoundrel"
   },
   {
     "name": "open wound",
     "points": 375,
     "image": "character-ability-cards/SC/open-wound.png",
-    "xws": "openwound"
+    "xws": "openwound",
+    "character": "scoundrel"
   },
   {
     "name": "pain's end",
     "points": 376,
     "image": "character-ability-cards/SC/pains-end.png",
-    "xws": "painsend"
+    "xws": "painsend",
+    "character": "scoundrel"
   },
   {
     "name": "quick hands",
     "points": 377,
     "image": "character-ability-cards/SC/quick-hands.png",
-    "xws": "quickhands"
+    "xws": "quickhands",
+    "character": "scoundrel"
   },
   {
     "name": "sc-back",
     "points": 378,
     "image": "character-ability-cards/SC/sc-back.png",
-    "xws": "scback"
+    "xws": "scback",
+    "character": "scoundrel"
   },
   {
     "name": "single out",
     "points": 379,
     "image": "character-ability-cards/SC/single-out.png",
-    "xws": "singleout"
+    "xws": "singleout",
+    "character": "scoundrel"
   },
   {
     "name": "sinister opportunity",
     "points": 380,
     "image": "character-ability-cards/SC/sinister-opportunity.png",
-    "xws": "sinisteropportunity"
+    "xws": "sinisteropportunity",
+    "character": "scoundrel"
   },
   {
     "name": "smoke bomb",
     "points": 381,
     "image": "character-ability-cards/SC/smoke-bomb.png",
-    "xws": "smokebomb"
+    "xws": "smokebomb",
+    "character": "scoundrel"
   },
   {
     "name": "special mixture",
     "points": 382,
     "image": "character-ability-cards/SC/special-mixture.png",
-    "xws": "specialmixture"
+    "xws": "specialmixture",
+    "character": "scoundrel"
   },
   {
     "name": "spring the trap",
     "points": 383,
     "image": "character-ability-cards/SC/spring-the-trap.png",
-    "xws": "springthetrap"
+    "xws": "springthetrap",
+    "character": "scoundrel"
   },
   {
     "name": "stick to the shadows",
     "points": 384,
     "image": "character-ability-cards/SC/stick-to-the-shadows.png",
-    "xws": "sticktotheshadows"
+    "xws": "sticktotheshadows",
+    "character": "scoundrel"
   },
   {
     "name": "stiletto storm",
     "points": 385,
     "image": "character-ability-cards/SC/stiletto-storm.png",
-    "xws": "stilettostorm"
+    "xws": "stilettostorm",
+    "character": "scoundrel"
   },
   {
     "name": "swift bow",
     "points": 386,
     "image": "character-ability-cards/SC/swift-bow.png",
-    "xws": "swiftbow"
+    "xws": "swiftbow",
+    "character": "scoundrel"
   },
   {
     "name": "thief's knack",
     "points": 387,
     "image": "character-ability-cards/SC/thiefs-knack.png",
-    "xws": "thiefsknack"
+    "xws": "thiefsknack",
+    "character": "scoundrel"
   },
   {
     "name": "throwing knives",
     "points": 388,
     "image": "character-ability-cards/SC/throwing-knives.png",
-    "xws": "throwingknives"
+    "xws": "throwingknives",
+    "character": "scoundrel"
   },
   {
     "name": "trickster's reversal",
     "points": 389,
     "image": "character-ability-cards/SC/tricksters-reversal.png",
-    "xws": "trickstersreversal"
+    "xws": "trickstersreversal",
+    "character": "scoundrel"
   },
   {
     "name": "venom shiv",
     "points": 390,
     "image": "character-ability-cards/SC/venom-shiv.png",
-    "xws": "venomshiv"
+    "xws": "venomshiv",
+    "character": "scoundrel"
   },
   {
     "name": "visage of the inevitable",
     "points": 391,
     "image": "character-ability-cards/SC/visage-of-the-inevitable.png",
-    "xws": "visageoftheinevitable"
+    "xws": "visageoftheinevitable",
+    "character": "scoundrel"
   },
   {
     "name": "watch it burn",
     "points": 392,
     "image": "character-ability-cards/SC/watch-it-burn.png",
-    "xws": "watchitburn"
+    "xws": "watchitburn",
+    "character": "scoundrel"
   },
   {
     "name": "angelic ascension",
@@ -2895,361 +3015,421 @@
     "name": "aid from the ether",
     "points": 482,
     "image": "character-ability-cards/SW/aid-from-the-ether.png",
-    "xws": "aidfromtheether"
+    "xws": "aidfromtheether",
+    "character": "spellweaver"
   },
   {
     "name": "black hole",
     "points": 483,
     "image": "character-ability-cards/SW/black-hole.png",
-    "xws": "blackhole"
+    "xws": "blackhole",
+    "character": "spellweaver"
   },
   {
     "name": "chromatic explosion",
     "points": 484,
     "image": "character-ability-cards/SW/chromatic-explosion.png",
-    "xws": "chromaticexplosion"
+    "xws": "chromaticexplosion",
+    "character": "spellweaver"
   },
   {
     "name": "cold fire",
     "points": 485,
     "image": "character-ability-cards/SW/cold-fire.png",
-    "xws": "coldfire"
+    "xws": "coldfire",
+    "character": "spellweaver"
   },
   {
     "name": "cold front",
     "points": 486,
     "image": "character-ability-cards/SW/cold-front.png",
-    "xws": "coldfront"
+    "xws": "coldfront",
+    "character": "spellweaver"
   },
   {
     "name": "crackling air",
     "points": 487,
     "image": "character-ability-cards/SW/crackling-air.png",
-    "xws": "cracklingair"
+    "xws": "cracklingair",
+    "character": "spellweaver"
   },
   {
     "name": "elemental aid",
     "points": 488,
     "image": "character-ability-cards/SW/elemental-aid.png",
-    "xws": "elementalaid"
+    "xws": "elementalaid",
+    "character": "spellweaver"
   },
   {
     "name": "engulfed in flames",
     "points": 489,
     "image": "character-ability-cards/SW/engulfed-in-flames.png",
-    "xws": "engulfedinflames"
+    "xws": "engulfedinflames",
+    "character": "spellweaver"
   },
   {
     "name": "fire orbs",
     "points": 490,
     "image": "character-ability-cards/SW/fire-orbs.png",
-    "xws": "fireorbs"
+    "xws": "fireorbs",
+    "character": "spellweaver"
   },
   {
     "name": "flame strike",
     "points": 491,
     "image": "character-ability-cards/SW/flame-strike.png",
-    "xws": "flamestrike"
+    "xws": "flamestrike",
+    "character": "spellweaver"
   },
   {
     "name": "flashing burst",
     "points": 492,
     "image": "character-ability-cards/SW/flashing-burst.png",
-    "xws": "flashingburst"
+    "xws": "flashingburst",
+    "character": "spellweaver"
   },
   {
     "name": "forked beam",
     "points": 493,
     "image": "character-ability-cards/SW/forked-beam.png",
-    "xws": "forkedbeam"
+    "xws": "forkedbeam",
+    "character": "spellweaver"
   },
   {
     "name": "freezing nova",
     "points": 494,
     "image": "character-ability-cards/SW/freezing-nova.png",
-    "xws": "freezingnova"
+    "xws": "freezingnova",
+    "character": "spellweaver"
   },
   {
     "name": "frost armor",
     "points": 495,
     "image": "character-ability-cards/SW/frost-armor.png",
-    "xws": "frostarmor"
+    "xws": "frostarmor",
+    "character": "spellweaver"
   },
   {
     "name": "frozen night",
     "points": 496,
     "image": "character-ability-cards/SW/frozen-night.png",
-    "xws": "frozennight"
+    "xws": "frozennight",
+    "character": "spellweaver"
   },
   {
     "name": "hardened spikes",
     "points": 497,
     "image": "character-ability-cards/SW/hardened-spikes.png",
-    "xws": "hardenedspikes"
+    "xws": "hardenedspikes",
+    "character": "spellweaver"
   },
   {
     "name": "icy blast",
     "points": 498,
     "image": "character-ability-cards/SW/icy-blast.png",
-    "xws": "icyblast"
+    "xws": "icyblast",
+    "character": "spellweaver"
   },
   {
     "name": "impaling eruption",
     "points": 499,
     "image": "character-ability-cards/SW/impaling-eruption.png",
-    "xws": "impalingeruption"
+    "xws": "impalingeruption",
+    "character": "spellweaver"
   },
   {
     "name": "inferno",
     "points": 500,
     "image": "character-ability-cards/SW/inferno.png",
-    "xws": "inferno"
+    "xws": "inferno",
+    "character": "spellweaver"
   },
   {
     "name": "living torch",
     "points": 501,
     "image": "character-ability-cards/SW/living-torch.png",
-    "xws": "livingtorch"
+    "xws": "livingtorch",
+    "character": "spellweaver"
   },
   {
     "name": "mana bolt",
     "points": 502,
     "image": "character-ability-cards/SW/mana-bolt.png",
-    "xws": "manabolt"
+    "xws": "manabolt",
+    "character": "spellweaver"
   },
   {
     "name": "reviving ether",
     "points": 503,
     "image": "character-ability-cards/SW/reviving-ether.png",
-    "xws": "revivingether"
+    "xws": "revivingether",
+    "character": "spellweaver"
   },
   {
     "name": "ride the wind",
     "points": 504,
     "image": "character-ability-cards/SW/ride-the-wind.png",
-    "xws": "ridethewind"
+    "xws": "ridethewind",
+    "character": "spellweaver"
   },
   {
     "name": "spirit of doom",
     "points": 505,
     "image": "character-ability-cards/SW/spirit-of-doom.png",
-    "xws": "spiritofdoom"
+    "xws": "spiritofdoom",
+    "character": "spellweaver"
   },
   {
     "name": "stone fists",
     "points": 506,
     "image": "character-ability-cards/SW/stone-fists.png",
-    "xws": "stonefists"
+    "xws": "stonefists",
+    "character": "spellweaver"
   },
   {
     "name": "sw-back",
     "points": 507,
     "image": "character-ability-cards/SW/sw-back.png",
-    "xws": "swback"
+    "xws": "swback",
+    "character": "spellweaver"
   },
   {
     "name": "twin restoration",
     "points": 508,
     "image": "character-ability-cards/SW/twin-restoration.png",
-    "xws": "twinrestoration"
+    "xws": "twinrestoration",
+    "character": "spellweaver"
   },
   {
     "name": "zephyr wings",
     "points": 509,
     "image": "character-ability-cards/SW/zephyr-wings.png",
-    "xws": "zephyrwings"
+    "xws": "zephyrwings",
+    "character": "spellweaver"
   },
   {
     "name": "auto turret",
     "points": 510,
     "image": "character-ability-cards/TI/auto-turret.png",
-    "xws": "autoturret"
+    "xws": "autoturret",
+    "character": "tinkerer"
   },
   {
     "name": "chimeric formula",
     "points": 511,
     "image": "character-ability-cards/TI/chimeric-formula.png",
-    "xws": "chimericformula"
+    "xws": "chimericformula",
+    "character": "tinkerer"
   },
   {
     "name": "crank bow",
     "points": 512,
     "image": "character-ability-cards/TI/crank-bow.png",
-    "xws": "crankbow"
+    "xws": "crankbow",
+    "character": "tinkerer"
   },
   {
     "name": "curative aerosol",
     "points": 513,
     "image": "character-ability-cards/TI/curative-aerosol.png",
-    "xws": "curativeaerosol"
+    "xws": "curativeaerosol",
+    "character": "tinkerer"
   },
   {
     "name": "dangerous contraption",
     "points": 514,
     "image": "character-ability-cards/TI/dangerous-contraption.png",
-    "xws": "dangerouscontraption"
+    "xws": "dangerouscontraption",
+    "character": "tinkerer"
   },
   {
     "name": "disintegration beam",
     "points": 515,
     "image": "character-ability-cards/TI/disintegration-beam.png",
-    "xws": "disintegrationbeam"
+    "xws": "disintegrationbeam",
+    "character": "tinkerer"
   },
   {
     "name": "disorienting flash",
     "points": 516,
     "image": "character-ability-cards/TI/disorienting-flash.png",
-    "xws": "disorientingflash"
+    "xws": "disorientingflash",
+    "character": "tinkerer"
   },
   {
     "name": "energizing tonic",
     "points": 517,
     "image": "character-ability-cards/TI/energizing-tonic.png",
-    "xws": "energizingtonic"
+    "xws": "energizingtonic",
+    "character": "tinkerer"
   },
   {
     "name": "enhancement field",
     "points": 518,
     "image": "character-ability-cards/TI/enhancement-field.png",
-    "xws": "enhancementfield"
+    "xws": "enhancementfield",
+    "character": "tinkerer"
   },
   {
     "name": "flamethrower",
     "points": 519,
     "image": "character-ability-cards/TI/flamethrower.png",
-    "xws": "flamethrower"
+    "xws": "flamethrower",
+    "character": "tinkerer"
   },
   {
     "name": "gas canister",
     "points": 520,
     "image": "character-ability-cards/TI/gas-canister.png",
-    "xws": "gascanister"
+    "xws": "gascanister",
+    "character": "tinkerer"
   },
   {
     "name": "harmless contraption",
     "points": 521,
     "image": "character-ability-cards/TI/harmless-contraption.png",
-    "xws": "harmlesscontraption"
+    "xws": "harmlesscontraption",
+    "character": "tinkerer"
   },
   {
     "name": "harsh stimulants",
     "points": 522,
     "image": "character-ability-cards/TI/harsh-stimulants.png",
-    "xws": "harshstimulants"
+    "xws": "harshstimulants",
+    "character": "tinkerer"
   },
   {
     "name": "hook gun",
     "points": 523,
     "image": "character-ability-cards/TI/hook-gun.png",
-    "xws": "hookgun"
+    "xws": "hookgun",
+    "character": "tinkerer"
   },
   {
     "name": "ink bomb",
     "points": 524,
     "image": "character-ability-cards/TI/ink-bomb.png",
-    "xws": "inkbomb"
+    "xws": "inkbomb",
+    "character": "tinkerer"
   },
   {
     "name": "jet propulsion",
     "points": 525,
     "image": "character-ability-cards/TI/jet-propulsion.png",
-    "xws": "jetpropulsion"
+    "xws": "jetpropulsion",
+    "character": "tinkerer"
   },
   {
     "name": "lethal injection",
     "points": 526,
     "image": "character-ability-cards/TI/lethal-injection.png",
-    "xws": "lethalinjection"
+    "xws": "lethalinjection",
+    "character": "tinkerer"
   },
   {
     "name": "micro bots",
     "points": 527,
     "image": "character-ability-cards/TI/micro-bots.png",
-    "xws": "microbots"
+    "xws": "microbots",
+    "character": "tinkerer"
   },
   {
     "name": "murderous contraption",
     "points": 528,
     "image": "character-ability-cards/TI/murderous-contraption.png",
-    "xws": "murderouscontraption"
+    "xws": "murderouscontraption",
+    "character": "tinkerer"
   },
   {
     "name": "net shooter",
     "points": 529,
     "image": "character-ability-cards/TI/net-shooter.png",
-    "xws": "netshooter"
+    "xws": "netshooter",
+    "character": "tinkerer"
   },
   {
     "name": "noxious vials",
     "points": 530,
     "image": "character-ability-cards/TI/noxious-vials.png",
-    "xws": "noxiousvials"
+    "xws": "noxiousvials",
+    "character": "tinkerer"
   },
   {
     "name": "potent potables",
     "points": 531,
     "image": "character-ability-cards/TI/potent-potables.png",
-    "xws": "potentpotables"
+    "xws": "potentpotables",
+    "character": "tinkerer"
   },
   {
     "name": "proximity mine",
     "points": 532,
     "image": "character-ability-cards/TI/proximity-mine.png",
-    "xws": "proximitymine"
+    "xws": "proximitymine",
+    "character": "tinkerer"
   },
   {
     "name": "reinvigorating elixir",
     "points": 533,
     "image": "character-ability-cards/TI/reinvigorating-elixir.png",
-    "xws": "reinvigorating-elixir"
+    "xws": "reinvigorating-elixir",
+    "character": "tinkerer"
   },
   {
     "name": "restorative mist",
     "points": 534,
     "image": "character-ability-cards/TI/restorative-mist.png",
-    "xws": "restorativemist"
+    "xws": "restorativemist",
+    "character": "tinkerer"
   },
   {
     "name": "reviving shock",
     "points": 535,
     "image": "character-ability-cards/TI/reviving-shock.png",
-    "xws": "revivingshock"
+    "xws": "revivingshock",
+    "character": "tinkerer"
   },
   {
     "name": "stamina booster",
     "points": 536,
     "image": "character-ability-cards/TI/stamina-booster.png",
-    "xws": "staminabooster"
+    "xws": "staminabooster",
+    "character": "tinkerer"
   },
   {
     "name": "stun shot",
     "points": 537,
     "image": "character-ability-cards/TI/stun-shot.png",
-    "xws": "stunshot"
+    "xws": "stunshot",
+    "character": "tinkerer"
   },
   {
     "name": "ti-back",
     "points": 538,
     "image": "character-ability-cards/TI/ti-back.png",
-    "xws": "tiback"
+    "xws": "tiback",
+    "character": "tinkerer"
   },
   {
     "name": "tinkerer's tools",
     "points": 539,
     "image": "character-ability-cards/TI/tinkerers-tools.png",
-    "xws": "tinkererstools"
+    "xws": "tinkererstools",
+    "character": "tinkerer"
   },
   {
     "name": "toxic bolt",
     "points": 540,
     "image": "character-ability-cards/TI/toxic-bolt.png",
-    "xws": "toxicbolt"
+    "xws": "toxicbolt",
+    "character": "tinkerer"
   },
   {
     "name": "volatile concoction",
     "points": 541,
     "image": "character-ability-cards/TI/volatile-concoction.png",
-    "xws": "volatileconcoction"
+    "xws": "volatileconcoction",
+    "character": "tinkerer"
   },
   {
     "name": "anguish and salvation",
@@ -3573,19 +3753,22 @@
     "name": "rat swarm",
     "points": 596,
     "image": "character-ability-cards/MT/gnawing-horde.png",
-    "xws": "gnawinghorde"
+    "xws": "gnawinghorde",
+    "character": "mindthief"
   },
   {
     "name": "rat king",
     "points": 597,
     "image": "character-ability-cards/MT/many-as-one.png",
-    "xws": "manyasone"
+    "xws": "manyasone",
+    "character": "mindthief"
   },
   {
     "name": "monstrous rat",
     "points": 598,
     "image": "character-ability-cards/MT/wretched-creature.png",
-    "xws": "wretchedcreature"
+    "xws": "wretchedcreature",
+    "character": "mindthief"
   },
   {
     "name": "healing sprite",
@@ -3663,31 +3846,36 @@
     "name": "mystic ally",
     "points": 611,
     "image": "character-ability-cards/SW/aid-from-the-ether.png",
-    "xws": "aidfromtheether"
+    "xws": "aidfromtheether",
+    "character": "spellweaver"
   },
   {
     "name": "burning avatar",
     "points": 612,
     "image": "character-ability-cards/SW/living-torch.png",
-    "xws": "livingtorch"
+    "xws": "livingtorch",
+    "character": "spellweaver"
   },
   {
     "name": "battle bot",
     "points": 613,
     "image": "character-ability-cards/TI/dangerous-contraption.png",
-    "xws": "dangerouscontraption"
+    "xws": "dangerouscontraption",
+    "character": "tinkerer"
   },
   {
     "name": "decoy",
     "points": 614,
     "image": "character-ability-cards/TI/harmless-contraption.png",
-    "xws": "harmlesscontraption"
+    "xws": "harmlesscontraption",
+    "character": "tinkerer"
   },
   {
     "name": "kill bot",
     "points": 615,
     "image": "character-ability-cards/TI/murderous-contraption.png",
-    "xws": "murderouscontraption"
+    "xws": "murderouscontraption",
+    "character": "tinkerer"
   },
   {
     "name": "ghost falcons",
