@@ -21,6 +21,7 @@
   "devDependencies": {
     "babel-plugin-inline-react-svg": "^1.1.0",
     "eslint": "^6.5.1",
-    "eslint-config-cratebind": "^2.0.8"
+    "eslint-config-cratebind": "^2.0.8",
+    "tinify": "^1.6.0-beta.2"
   }
 }
