@@ -1,0 +1,19 @@
+{
+  "name": "gloomhaven-tool",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/core": "^0.4.0",
+    "@emotion/core": "^10.0.21",
+    "@emotion/styled": "^10.0.17",
+    "emotion-theming": "^10.0.19",
+    "next": "9.1.1",
+    "react": "16.10.2",
+    "react-dom": "16.10.2"
+  }
+}
